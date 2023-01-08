@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mitchell Diaz
 Full Stack Web Developer - HTML, CSS, JavaScript, NodeJS, Express, React, MongoDB.  
-Ironhack bootcamp grad.  
+Ironhack bootcamp graduate December 2022.  
 Still learning.  
 Always learning. 
 
